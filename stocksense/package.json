@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "StockSense inventory management",
   "private": true,
+  "engines": { "node": "24.x" },
   "scripts": {
     "dev": "concurrently -k -n API,WEB \"npm:dev:api\" \"npm:dev:web\"",
     "dev:api": "tsx watch src/server/dev.ts",
@@ -27,6 +28,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@libsql/client": "^0.18.0",
     "bcryptjs": "^3.0.3",
     "better-sqlite3": "^13.0.3",
     "dotenv": "^18.0.4",
