@@ -4,6 +4,14 @@ Inventory management with Administrator, Inventory Manager, and Warehouse Staff 
 
 Presented by **Ayush Pandey**.
 
+## Open online
+
+**[Open StockSense](https://stock-sense-red.vercel.app/)**
+
+Hosted on Vercel with a persistent Turso database. Sign in with your private
+workspace account. The public demo credentials below are for local development
+only. See the [deployment guide](stocksense/DEPLOYMENT.md) for hosting details.
+
 ## Run locally
 
 Install Node.js 24, then run these commands from this repository:
