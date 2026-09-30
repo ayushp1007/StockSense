@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="stocksense-title">
+  <title id="stocksense-title">StockSense</title>
+  <rect width="64" height="64" rx="18" fill="#087F74"/>
+  <rect x=".75" y=".75" width="62.5" height="62.5" rx="17.25" stroke="#F5F7ED" stroke-opacity=".14" stroke-width="1.5"/>
+  <path d="M14 22 32 12 50 22 32 32 14 22Z" fill="#BAF264"/>
+  <path d="M14 26 29 34.333V43L14 34.667V26Z" fill="#F5F7ED"/>
+  <path d="m35 34.333 15-8.333v8.667L35 43v-8.667Z" fill="#F5F7ED"/>
+  <path d="m14 37 18 10 18-10v6L32 53 14 43v-6Z" fill="#F5F7ED"/>
+</svg>
